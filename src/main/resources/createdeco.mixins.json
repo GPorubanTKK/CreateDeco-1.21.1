@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.rld.createdeco.common.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ItemVaultBlockEntityMixin",
+    "AbstractRegistrateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
