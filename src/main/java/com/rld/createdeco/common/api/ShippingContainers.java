@@ -43,7 +43,7 @@ public class ShippingContainers {
       .properties(p -> p.sound(SoundType.NETHERITE_BLOCK).explosionResistance(1200))
       .transform(pickaxeOnly())
       .item(ShippingContainerBlockItem::new).build()
-      .tag(BlockTags.MINEABLE_WITH_PICKAXE)
+      //.tag(BlockTags.MINEABLE_WITH_PICKAXE) //shipping containers are not registered, adding them to tag breaks a lot of things
       .lang(color.name().charAt(0) + color.name().substring(1).toLowerCase()
           .replaceAll("_", " ") + " Shipping Container")
       .blockstate((ctx, prov) -> BlockStateGenerator.shippingContainer(CreateDecoMod.REGISTRATE, color, ctx, prov))
