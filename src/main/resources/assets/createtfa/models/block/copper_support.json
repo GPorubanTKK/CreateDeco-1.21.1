@@ -1,0 +1,7 @@
+{
+  "parent": "createtfa:block/support",
+  "textures": {
+    "0": "createtfa:block/palettes/support/copper_support",
+    "particle": "createtfa:block/palettes/support/copper_support"
+  }
+}

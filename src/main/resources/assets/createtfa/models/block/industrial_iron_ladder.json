@@ -1,0 +1,8 @@
+{
+  "parent": "createtfa:block/ladder",
+  "textures": {
+    "0": "createtfa:block/palettes/ladders/ladder_industrial_iron_hoop",
+    "1": "createtfa:block/palettes/ladders/ladder_industrial_iron",
+    "particle": "createtfa:block/palettes/ladders/ladder_industrial_iron"
+  }
+}

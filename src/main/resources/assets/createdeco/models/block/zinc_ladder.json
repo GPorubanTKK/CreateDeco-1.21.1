@@ -1,8 +1,0 @@
-{
-  "parent": "createdeco:block/ladder",
-  "textures": {
-    "0": "createdeco:block/palettes/ladders/ladder_zinc_hoop",
-    "1": "createdeco:block/palettes/ladders/ladder_zinc",
-    "particle": "createdeco:block/palettes/ladders/ladder_zinc"
-  }
-}

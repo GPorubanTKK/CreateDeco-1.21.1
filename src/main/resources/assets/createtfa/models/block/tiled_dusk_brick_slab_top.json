@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "createtfa:block/palettes/bricks/dusk/tiled_dusk_bricks",
+    "side": "createtfa:block/palettes/bricks/dusk/tiled_dusk_bricks",
+    "top": "createtfa:block/palettes/bricks/dusk/tiled_dusk_bricks"
+  }
+}

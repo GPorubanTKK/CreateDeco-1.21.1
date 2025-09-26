@@ -1,0 +1,7 @@
+{
+  "parent": "createtfa:block/support_wedge_horizontal",
+  "textures": {
+    "0": "createtfa:block/palettes/support_wedges/brass_support_wedge",
+    "particle": "createtfa:block/palettes/support_wedges/brass_support_wedge"
+  }
+}

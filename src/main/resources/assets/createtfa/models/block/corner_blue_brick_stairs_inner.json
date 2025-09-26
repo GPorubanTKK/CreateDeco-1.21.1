@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "createtfa:block/palettes/bricks/blue/corner_blue_bricks",
+    "side": "createtfa:block/palettes/bricks/blue/corner_blue_bricks",
+    "top": "createtfa:block/palettes/bricks/blue/corner_blue_bricks"
+  }
+}

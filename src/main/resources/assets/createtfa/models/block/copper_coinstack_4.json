@@ -1,0 +1,8 @@
+{
+  "parent": "createtfa:block/layers_bottom_top_4",
+  "textures": {
+    "bottom": "createtfa:block/copper_coinstack_bottom",
+    "side": "createtfa:block/copper_coinstack_side",
+    "top": "createtfa:block/copper_coinstack_top"
+  }
+}

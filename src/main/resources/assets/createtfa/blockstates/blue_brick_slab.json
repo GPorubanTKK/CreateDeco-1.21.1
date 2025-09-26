@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "createtfa:block/blue_brick_slab"
+    },
+    "type=double": {
+      "model": "createtfa:block/blue_bricks"
+    },
+    "type=top": {
+      "model": "createtfa:block/blue_brick_slab_top"
+    }
+  }
+}

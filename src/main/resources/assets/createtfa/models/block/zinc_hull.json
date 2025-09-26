@@ -1,0 +1,8 @@
+{
+  "parent": "createtfa:block/train_hull",
+  "textures": {
+    "0": "createtfa:block/palettes/hull/zinc_hull_front",
+    "1": "createtfa:block/palettes/hull/zinc_hull_side",
+    "particle": "createtfa:block/palettes/hull/zinc_hull_front"
+  }
+}

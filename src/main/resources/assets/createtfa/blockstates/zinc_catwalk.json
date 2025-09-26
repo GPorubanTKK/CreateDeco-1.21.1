@@ -1,0 +1,17 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "createtfa:block/zinc_catwalk"
+      }
+    },
+    {
+      "apply": {
+        "model": "createtfa:block/zinc_catwalk_support"
+      },
+      "when": {
+        "bottom": "true"
+      }
+    }
+  ]
+}

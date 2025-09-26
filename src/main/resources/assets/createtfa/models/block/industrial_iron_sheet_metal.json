@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "createtfa:block/palettes/sheet_metal/industrial_iron_sheet_metal_top",
+    "side": "createtfa:block/palettes/sheet_metal/industrial_iron_sheet_metal"
+  }
+}

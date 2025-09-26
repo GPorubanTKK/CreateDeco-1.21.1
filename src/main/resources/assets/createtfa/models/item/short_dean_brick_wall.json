@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "createtfa:block/palettes/bricks/dean/short_dean_bricks"
+  }
+}

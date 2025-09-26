@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/iron_bars_post",
+  "textures": {
+    "bars": "createtfa:block/palettes/metal_bars/brass_bars",
+    "particle": "createtfa:block/palettes/metal_bars/brass_bars"
+  }
+}

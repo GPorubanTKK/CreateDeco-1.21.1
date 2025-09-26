@@ -1,0 +1,8 @@
+{
+  "parent": "createtfa:block/cage_lamp",
+  "textures": {
+    "cage": "createtfa:block/palettes/cage_lamp/andesite_lamp",
+    "lamp": "createtfa:block/palettes/cage_lamp/light_soul",
+    "particle": "createtfa:block/palettes/cage_lamp/andesite_lamp"
+  }
+}

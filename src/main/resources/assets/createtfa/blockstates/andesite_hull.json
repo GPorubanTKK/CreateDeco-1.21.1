@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "createtfa:block/andesite_hull",
+      "x": 270
+    },
+    "facing=east": {
+      "model": "createtfa:block/andesite_hull",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "createtfa:block/andesite_hull",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "createtfa:block/andesite_hull"
+    },
+    "facing=up": {
+      "model": "createtfa:block/andesite_hull",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "createtfa:block/andesite_hull",
+      "y": 90
+    }
+  }
+}

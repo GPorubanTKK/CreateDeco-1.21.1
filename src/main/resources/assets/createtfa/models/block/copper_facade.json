@@ -1,0 +1,7 @@
+{
+  "parent": "createtfa:block/facade",
+  "textures": {
+    "2": "createtfa:block/palettes/catwalks/copper_catwalk",
+    "particle": "createtfa:block/palettes/catwalks/copper_catwalk"
+  }
+}

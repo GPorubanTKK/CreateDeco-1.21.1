@@ -1,0 +1,8 @@
+{
+  "parent": "createtfa:block/cage_lamp",
+  "textures": {
+    "cage": "createtfa:block/palettes/cage_lamp/copper_lamp",
+    "lamp": "createtfa:block/palettes/cage_lamp/light_default_off",
+    "particle": "createtfa:block/palettes/cage_lamp/copper_lamp"
+  }
+}

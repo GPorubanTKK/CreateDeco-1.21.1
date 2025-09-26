@@ -1,0 +1,7 @@
+{
+  "parent": "createtfa:block/connected_glass_pane/noside",
+  "textures": {
+    "edge": "createtfa:block/palettes/windows/andesite_window_end",
+    "pane": "createtfa:block/palettes/windows/andesite_window"
+  }
+}

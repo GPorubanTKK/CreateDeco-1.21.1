@@ -1,0 +1,7 @@
+{
+  "parent": "create:block/fluid_pipe/item",
+  "textures": {
+    "1": "createtfa:block/palettes/pipes/placeholder_pipes",
+    "particle": "createtfa:block/palettes/pipes/placeholder_pipes"
+  }
+}

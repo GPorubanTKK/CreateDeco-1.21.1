@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "createtfa:block/long_dean_brick_slab"
+    },
+    "type=double": {
+      "model": "createtfa:block/long_dean_bricks"
+    },
+    "type=top": {
+      "model": "createtfa:block/long_dean_brick_slab_top"
+    }
+  }
+}

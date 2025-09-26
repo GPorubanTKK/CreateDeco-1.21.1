@@ -1,0 +1,9 @@
+{
+	"parent": "createtfa:block/support",
+	"ambientocclusion": false,
+	"render_type": "translucent",
+	"textures": {
+		"0": "createtfa:block/palettes/support/andesite_support",
+		"particle": "createtfa:block/palettes/support/andesite_support"
+	}
+}

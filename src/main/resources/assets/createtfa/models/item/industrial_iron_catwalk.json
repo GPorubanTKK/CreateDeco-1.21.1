@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_trapdoor_bottom",
+  "textures": {
+    "texture": "createtfa:block/palettes/catwalks/industrial_iron_catwalk"
+  }
+}

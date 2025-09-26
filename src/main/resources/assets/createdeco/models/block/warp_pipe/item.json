@@ -1,7 +1,0 @@
-{
-  "parent": "create:block/fluid_pipe/item",
-  "textures": {
-    "1": "createdeco:block/palettes/pipes/placeholder_pipes",
-    "particle": "createdeco:block/palettes/pipes/placeholder_pipes"
-  }
-}

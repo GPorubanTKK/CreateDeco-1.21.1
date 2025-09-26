@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/iron_bars_side_alt",
+  "textures": {
+    "bars": "createtfa:block/palettes/metal_bars/industrial_iron_bars",
+    "edge": "createtfa:block/palettes/metal_bars/industrial_iron_bars_post",
+    "particle": "createtfa:block/palettes/metal_bars/industrial_iron_bars_post"
+  }
+}

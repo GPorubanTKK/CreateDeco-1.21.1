@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "createtfa:block/palettes/metal_bars/copper_bars",
+    "layer1": "createtfa:block/palettes/metal_bars/copper_bars_overlay"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "createtfa:block/mossy_verdant_brick_slab"
+    },
+    "type=double": {
+      "model": "createtfa:block/mossy_verdant_bricks"
+    },
+    "type=top": {
+      "model": "createtfa:block/mossy_verdant_brick_slab_top"
+    }
+  }
+}

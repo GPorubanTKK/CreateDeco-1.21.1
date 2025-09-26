@@ -1,0 +1,8 @@
+{
+  "parent": "createtfa:block/cage_lamp",
+  "textures": {
+    "cage": "createtfa:block/palettes/cage_lamp/industrial_iron_lamp",
+    "lamp": "createtfa:block/palettes/cage_lamp/light_redstone",
+    "particle": "createtfa:block/palettes/cage_lamp/industrial_iron_lamp"
+  }
+}

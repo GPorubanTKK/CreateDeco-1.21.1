@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "createtfa:block/corner_scarlet_brick_slab"
+    },
+    "type=double": {
+      "model": "createtfa:block/corner_scarlet_bricks"
+    },
+    "type=top": {
+      "model": "createtfa:block/corner_scarlet_brick_slab_top"
+    }
+  }
+}

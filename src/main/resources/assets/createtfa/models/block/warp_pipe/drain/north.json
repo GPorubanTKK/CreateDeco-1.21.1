@@ -1,0 +1,7 @@
+{
+  "parent": "create:block/fluid_pipe/drain/north",
+  "textures": {
+    "0": "createtfa:block/palettes/pipes/placeholder_pipes",
+    "particle": "createtfa:block/palettes/pipes/placeholder_pipes"
+  }
+}

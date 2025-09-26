@@ -1,0 +1,7 @@
+{
+  "parent": "createtfa:block/dyed_placard",
+  "textures": {
+    "0": "createtfa:block/palettes/placard/blue_placard",
+    "particle": "createtfa:block/palettes/placard/blue_placard"
+  }
+}

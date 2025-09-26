@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "createdeco:block/palettes/windows/andesite_window",
-    "side": "createdeco:block/palettes/windows/andesite_window"
-  }
-}

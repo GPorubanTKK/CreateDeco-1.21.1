@@ -1,0 +1,7 @@
+{
+  "parent": "createtfa:block/catwalk_top",
+  "textures": {
+    "2": "createtfa:block/palettes/catwalks/andesite_catwalk",
+    "particle": "createtfa:block/palettes/catwalks/andesite_catwalk"
+  }
+}

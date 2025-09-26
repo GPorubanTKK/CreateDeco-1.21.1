@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "createtfa:block/cracked_umber_brick_slab"
+    },
+    "type=double": {
+      "model": "createtfa:block/cracked_umber_bricks"
+    },
+    "type=top": {
+      "model": "createtfa:block/cracked_umber_brick_slab_top"
+    }
+  }
+}
